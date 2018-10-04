@@ -1,7 +1,7 @@
 {
     "name": "chujc/id-card",
     "description": "检测中国的身份证格式与港澳台居民居住证是否正确",
-    "license": "MIT License",
+    "license": "MIT",
     "authors": [
         {
             "name": "chujc",
