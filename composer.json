@@ -1,0 +1,18 @@
+{
+    "name": "chujc/idCard",
+    "description": "检测🇨🇳的身份证格式与港澳台居民居住证是否正确",
+    "license": "MIT License",
+    "authors": [
+        {
+            "name": "chujc",
+            "email": "john1668@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "chujc\\": "src/"
+        }
+    }
+}
