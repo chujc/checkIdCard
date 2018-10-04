@@ -9,3 +9,12 @@
 IdCard::check('5100199909090009');
 
 ```
+
+# laravel专用
+
+```php
+$v = Validator::make($data, [
+    'id' =>  new IdCardRule(),
+]);
+
+```

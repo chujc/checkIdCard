@@ -9,6 +9,7 @@
             "email": "john1668@qq.com"
         }
     ],
+    "minimum-stability" : "stable",
     "require": {},
     "autoload": {
         "psr-4": {
