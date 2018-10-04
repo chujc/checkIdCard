@@ -1,6 +1,7 @@
 {
     "name": "chujc/id-card",
     "description": "检测中国的身份证格式与港澳台居民居住证是否正确",
+    "keywords": ["china", "id-card"],
     "license": "MIT",
     "authors": [
         {
@@ -8,7 +9,6 @@
             "email": "john1668@qq.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
