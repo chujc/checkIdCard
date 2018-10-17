@@ -2,6 +2,12 @@
 
 检测中国的身份证格式与港澳台居民居住证是否正确
 
+# 安装方式
+
+```bash
+composer require chujc/id-card
+```
+
 # 检测方式
 
 ```php
